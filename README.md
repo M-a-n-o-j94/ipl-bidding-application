@@ -1,3 +1,4 @@
+## Introduction
 The "Pie-in-the-Sky IPL Match Bidding App" is a comprehensive mobile application designed to facilitate legal bidding for IPL matches. It caters to both registered users and administrators, offering a range of functionalities aimed at enhancing the user experience and providing valuable insights into match outcomes and bidding trends.
 
 Key features of the app include:
